@@ -1,0 +1,15 @@
+{
+  "name": "TypeScript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/luizhenrique01/TypeScript.git",
+  "author": "Luiz Henrique Oliveira de Assis <51269270+luizhenrique01@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "typescript": "^4.5.2"
+  }
+}
